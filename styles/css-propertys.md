@@ -171,4 +171,4 @@ button {
 
 This gives you the best of both worlds in 2026.
 
-Let me know if you'd like examples for dark mode toggle, `@property` usage, or how to gradually migrate more toward native CSS in your Nuxt setup!
+
