@@ -1,13 +1,11 @@
 ---
 created: 2026-03-15T14:07:03+03:00
-modified: 2026-03-15T14:08:01+03:00
+modified: 2026-03-15T14:18:26+03:00
 ---
-
-# Nuxt.config.ts
 
 # Конфигурация Nuxt
 
-
+`**Nuxt.config.ts**`
 ````typescript
 
 // nuxt.config.ts
